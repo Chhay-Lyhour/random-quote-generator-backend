@@ -1,6 +1,6 @@
 # Random Quote Generator
 
-## backend - Chhay Lyhour
+## backend - created by chhay lyhour
 
 ## Tech Stack:
 
