@@ -1,6 +1,6 @@
 # Random Quote Generator
 
-## backend
+## backend - Chhay Lyhour
 
 ## Tech Stack:
 
@@ -14,7 +14,7 @@
 1.  Clone the project repository
     ```bash
     git clone https://github.com/Chhay-Lyhour/random-quote-generator-backend.git
-    cd KIT---Simple-Quote-Generator-Backend
+    cd random-quote-generator-backend
     ```
 2.  Install the necessary backend dependencies
     ```bash
